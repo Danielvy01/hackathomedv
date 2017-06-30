@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="10pt"
+    android:paddingBottom="10pt"
+    android:paddingRight="10pt"
+    android:paddingTop="10pt">
+    <LinearLayout
+        android:orientation="horizontal"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/linearLayout1"
+        android:layout_marginBottom="10dp">
+        <TextView
+            android:text="@string/textoEmail"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/lblEmail"
+            android:layout_width="140.0dp"
+            android:layout_height="wrap_content"
+            android:gravity="right"
+            android:paddingRight="8pt" />
+        <EditText
+            android:inputType="textEmailAddress"
+            android:id="@+id/txtEmail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/linearLayout2">
+        <TextView
+            android:text="@string/textoContrasena"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/lblContrasena"
+            android:layout_width="140.0dp"
+            android:layout_height="wrap_content"
+            android:gravity="right"
+            android:paddingRight="8pt" />
+        <EditText
+            android:inputType="textPassword"
+            android:id="@+id/txtContrasena"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+    <Button
+        android:text="@string/nombreBotonValidar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/button1"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="5pt" />
+</LinearLayout>

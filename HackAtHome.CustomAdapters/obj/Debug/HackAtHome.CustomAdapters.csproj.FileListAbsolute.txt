@@ -1,0 +1,13 @@
+D:\DANIEL\CAPACITACIÓN\XAMARINDIPLOMADO\HACKHOME\HackAtHomeDV\HackAtHome.CustomAdapters\bin\Debug\HackAtHome.CustomAdapters.dll
+D:\DANIEL\CAPACITACIÓN\XAMARINDIPLOMADO\HACKHOME\HackAtHomeDV\HackAtHome.CustomAdapters\bin\Debug\HackAtHome.CustomAdapters.pdb
+D:\DANIEL\CAPACITACIÓN\XAMARINDIPLOMADO\HACKHOME\HackAtHomeDV\HackAtHome.CustomAdapters\bin\Debug\HackAtHome.CustomAdapters.apk
+D:\DANIEL\CAPACITACIÓN\XAMARINDIPLOMADO\HACKHOME\HackAtHomeDV\HackAtHome.CustomAdapters\bin\Debug\HackAtHome.CustomAdapters-Signed.apk
+D:\DANIEL\CAPACITACIÓN\XAMARINDIPLOMADO\HACKHOME\HackAtHomeDV\HackAtHome.CustomAdapters\bin\Debug\HackAtHome.Entities.dll
+D:\DANIEL\CAPACITACIÓN\XAMARINDIPLOMADO\HACKHOME\HackAtHomeDV\HackAtHome.CustomAdapters\bin\Debug\HackAtHome.Entities.pdb
+D:\DANIEL\CAPACITACIÓN\XAMARINDIPLOMADO\HACKHOME\HackAtHomeDV\HackAtHome.CustomAdapters\obj\Debug\HackAtHome.CustomAdapters.csprojResolveAssemblyReference.cache
+D:\DANIEL\CAPACITACIÓN\XAMARINDIPLOMADO\HACKHOME\HackAtHomeDV\HackAtHome.CustomAdapters\obj\Debug\HackAtHome.CustomAdapters.dll
+D:\DANIEL\CAPACITACIÓN\XAMARINDIPLOMADO\HACKHOME\HackAtHomeDV\HackAtHome.CustomAdapters\obj\Debug\HackAtHome.CustomAdapters.pdb
+D:\DANIEL\CAPACITACIÓN\XAMARINDIPLOMADO\HACKHOME\HackAtHomeDV\HackAtHome.CustomAdapters\obj\Debug\android\bin\HackAtHome.CustomAdapters.apk
+D:\DANIEL\CAPACITACIÓN\XAMARINDIPLOMADO\HACKHOME\HackAtHomeDV\HackAtHome.CustomAdapters\obj\Debug\res\values\strings.xml
+D:\DANIEL\CAPACITACIÓN\XAMARINDIPLOMADO\HACKHOME\HackAtHomeDV\HackAtHome.CustomAdapters\obj\Debug\R.cs.flag
+D:\DANIEL\CAPACITACIÓN\XAMARINDIPLOMADO\HACKHOME\HackAtHomeDV\HackAtHome.CustomAdapters\obj\Debug\uploadflags.txt
